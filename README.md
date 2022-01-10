@@ -5,6 +5,7 @@ For now, I’m working as a team leader for DrSmile. It's Berlin's company that 
 
 My main focus is front-end technologies, but I also have expertise in backend and mobile development. I like managing people as well. So far I have a strong desire to help other people to become programmers. If you look for a mentor I will be happy to help you.
 
+[![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersdeath)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
