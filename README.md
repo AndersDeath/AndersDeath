@@ -1,11 +1,13 @@
-## Vladimir Bolshakov
+Hello everybody. 
 
-Hello everybody. I like calling myself a programmer. I work in IT for whole life. I started programming at the age of 14 and I still do it.
-For now, I’m working as a team leader for DrSmile. It's Berlin's company that sells teeth aligners and supports all stages of patients' treatment.
+My name is Vladimir Bolshakov and I am a programmer. At the same time, I am working for Berlin's company DR SMILE as a Team Leader and Senior front-end and mobile engineer.
 
-My main focus is front-end technologies, but I also have expertise in backend and mobile development. I like managing people as well. So far I have a strong desire to help other people to become programmers. If you look for a mentor I will be happy to help you.
+I've started programming when I was 14 years old. At the age of 18, I've started working as a programmer. For more than 15 years I've worked as a freelancer as an individual entrepreneur, or in big and small companies as an engineer or manager. Ialso tried to build startups. My main interest in technologies is related to the web. I have expertise in backend and front-end programming as well.
 
-[![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersdeath&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+If you want to discuss something, or suggest participation in some interesting project, I will be very happy to talk to you.
+
+Best regard,
+Vladimir Bolshakov.
 
 
 <!--
