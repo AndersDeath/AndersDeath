@@ -12,6 +12,9 @@ Vladimir Bolshakov.
 **My social networks**
 
 [<img src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue">](https://www.linkedin.com/in/vladimir-bolshakov-team-leader/)
+[<img src="https://img.shields.io/github/followers/AndersDeath?style=social">](https://github.com/AndersDeath)
+[<img src="https://img.shields.io/twitter/follow/andersdeath?style=social">](https://twitter.com/andersdeath)
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersDeath&theme=dark" />
