@@ -14,7 +14,7 @@ Vladimir Bolshakov.
 * [<img src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue">](https://www.linkedin.com/in/vladimir-bolshakov-team-leader/)
 * [<img src="https://img.shields.io/github/followers/AndersDeath?style=social">](https://github.com/AndersDeath)
 * [<img src="https://img.shields.io/twitter/follow/andersdeath?style=social">](https://twitter.com/andersdeath) (RUS)
-* [<img src="https://img.shields.io/twitter/follow/vladnbol?style=social">](https://twitter.com/vladnbol) (ENG)
+* [<img src="https://img.shields.io/twitter/follow/gypsyprog?style=social">](https://twitter.com/gypsyprog) (ENG)
 
 
 
