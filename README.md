@@ -10,6 +10,9 @@ Best regard,
 Vladimir Bolshakov.
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersDeath&theme=dark" />
+
+
 <!--
 **AndersDeath/AndersDeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
