@@ -1,7 +1,7 @@
 Hi 👋 My name is Vladimir
 =====================
 
-Hello everybody.
+Hello everybody,
 
 My name is Vladimir Bolshakov and I am a programmer. At the same time, I am working for Berlin's company DR SMILE as a Team Leader and Senior front-end and mobile engineer. 
 
