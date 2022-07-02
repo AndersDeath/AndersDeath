@@ -9,7 +9,7 @@ I've started programming when I was 14 years old. At the age of 18, I've started
 
 If you want to discuss something, or suggest participation in some interesting project, I will be very happy to talk to you. 
 
-Best regard, Vlad Bolshakov.
+Best regard, Vladimir Bolshakov.
 
 <a href="https://www.twitter.com/gypsyprog" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gypsyprog?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
